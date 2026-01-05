@@ -275,3 +275,9 @@ h2 {
   font-size: 14px;
   color: #999;
 }
+
+.doc-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
